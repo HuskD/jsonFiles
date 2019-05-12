@@ -1346,6 +1346,738 @@
     {
         "quote": "Nie ma nic lepszego niż przyjaciel. No może jest- przyjaciel z czekoladą.",
         "name": "Linda Grayson"
+    },
+    {
+        "quote": "Lub robić coś. Kochaj kogoś. Nie bądz gałganem.",
+        "name": "Kotarbiński"
+    },
+    {
+        "quote": "Słowa wychodzące z serca trafiają do serca.",
+        "name": "Przysłowie żydowskie"
+    },
+    {
+        "quote": "Bywają straty będące nieocenioną korzyścią.",
+        "name": "Maurice Maeterlinck"
+    },
+    {
+        "quote": "Na początku jest to trudne, ale na początku wszystko jest trudne.",
+        "name": "Musashi Miyamoto"
+    },
+    {
+        "quote": "Produkuje maszyna, człowiek tworzy.",
+        "name": "R. May"
+    },
+    {
+        "quote": "Perspektywa śmierci to bardzo silna motywacja.",
+        "name": "Dan Brown"
+    },
+    {
+        "quote": "Jeśli możesz coś zrobić lub marzysz, że mógłbyś to zrobić, zabierz się za to. Odwaga ma w sobie moc geniuszu.",
+        "name": "Johann Wolfgang Goethe"
+    },
+    {
+        "quote": "Nigdy nie jest za późno, aby wkroczyć na uczciwą drogę: kto żałuje swych grzechów, ten już prawie niewinny.",
+        "name": "Seneka"
+    },
+    {
+        "quote": "Odważ się być mądrym!",
+        "name": "Horacy"
+    },
+    {
+        "quote": "Czy zauważyłeś, że kiedy sam do siebie masz stosunek pozytywny, inni ludzie stają się dla ciebie bardzo mili?",
+        "name": "Andrew Matthews"
+    },
+    {
+        "quote": "Fortuna faworyzuje odważnych.",
+        "name": "Publius Terence"
+    },
+    {
+        "quote": "Pierwszym krokiem do sukcesu jest – niezależnie od dziedziny – zainteresowanie się osiągnięciem tego sukcesu.",
+        "name": "William Osler"
+    },
+    {
+        "quote": "Życie jest zmianą. Jeśli przestaniesz się zmieniać, przestaniesz żyć.",
+        "name": "Rainer Haak"
+    },
+    {
+        "quote": "Marzenie powinno trochę cię przerażać i bardzo ekscytować.",
+        "name": "Bob Proctor"
+    },
+    {
+        "quote": "Człowiek jest zwierzęciem ustawicznie poszukującym celu. Jego życie ma znaczenie tylko wtedy, gdy walczy i dosięga swych celów.",
+        "name": "Arystoteles"
+    },
+    {
+        "quote": "Nie otrzymujemy krótkiego życia, lecz je takim czynimy. Nie brakuje nam czasu, lecz trwonimy go. ",
+        "name": "Seneka Młodszy"
+    },
+    {
+        "quote": "Cierpliwość, wytrwałość i pot tworzą niepokonaną kombinację sukcesu.",
+        "name": "Napoleon Hill"
+    },
+    {
+        "quote": "Każdy z nas ma władzę, gdy jest całko­wicie prze­kona­ny o słuszności te­go, co robi. ",
+        "name": "Paulo Coelho"
+    },
+    {
+        "quote": "Żad­na wiel­ka miłość nie umiera do końca. Możemy strze­lać do niej z pis­to­letu lub za­mykać w naj­ciem­niej­szych za­kamar­kach naszych serc, ale ona jest spryt­niej­sza – wie, jak przeżyć. ",
+        "name": "Jonathan Carroll"
+    },
+    {
+        "quote": "Nie prag­nij być lep­szym od in­nych, naj­pierw bądź sa­mym sobą.",
+        "name": "Thomas Dewar"
+    },
+    {
+        "quote": "Umysły są jak spadochrony - działają tylko gdy są otwarte.",
+        "name": "Fiodor Dostojewski"
+    },
+    {
+        "quote": "Do­dajesz do siebie Ko­goś, roz­mnażasz się, a na końcu nie wiesz gdzie jes­teś, nie pot­ra­fisz siebie znaleźć.",
+        "name": "Nutricia"
+    },
+    {
+        "quote": "Dob­rym ten się sta­je, co dob­ro rozdaje.",
+        "name": "Bujak Bogusław"
+    },
+    {
+        "quote": "Wdzięczność jest najpiękniejszą formą szczęścia: należy zarówno do jego przyczyn jak i skutków.",
+        "name": "Walter Dirks"
+    },
+    {
+        "quote": "Podróżować znaczy żyć. A w każdym razie żyć podwójnie, potrójnie, wielokrotnie.",
+        "name": "Andrzej Stasiuk"
+    },
+    {
+        "quote": "Tkwi we mnie coś takiego, co sprawia, że nie interesuje mnie gra o małe stawki. Dla mnie liczy się jedynie „naj”. Tylko to mnie bierze naprawdę.",
+        "name": "Jerzy Kukuczka"
+    },
+    {
+        "quote": "Ludzie, którzy lubią koty, unikają rozwiązań siłowych.",
+        "name": "Anny Duperey"
+    },
+    {
+        "quote": "Wiesz co się robi, jak życie dołuje? Mówi się trudno i płynie się dalej.",
+        "name": "Gdzie jest Nemo? (2003)"
+    },
+    {
+        "quote": "To my kreujemy swoją przyszłość, a nie przyszłość nas.",
+        "name": "Hubert Jeżewski"
+    },
+    {
+        "quote": "Życie jest zbyt krótkie, żeby było małe.",
+        "name": "Benjamin Disraeli"
+    },
+    {
+        "quote": "Zadawanie pytań sprawia, że czujesz, że żyjesz.",
+        "name": "Albert Espinosa"
+    },
+    {
+        "quote": "Kiedy człowiek boi się coś zrobić, wtedy wie, że żyje. Ale kiedy człowiek nie robi czegoś, tylko dlatego, że się boi, to wtedy jest martwy.",
+        "name": "William Faulkner"
+    },
+    {
+        "quote": "Branie czegoś na serio przez długi czas utrudnia życie.",
+        "name": "Andre Gide"
+    },
+    {
+        "quote": "Często szuka się sensu życia przy pomocy bezsensownych metod.",
+        "name": "Aldous Huxley"
+    },
+    {
+        "quote": "Nie prag­nij być lep­szym od in­nych, naj­pierw bądź sa­mym sobą. ",
+        "name": "Fiodor Dostojewski"
+    },
+    {
+        "quote": "Nie jest ważne, co przydarza ci się w życiu. Ważne jest, jakie przypisujesz temu znaczenie.",
+        "name": "Robert Kiyosaki"
+    },
+    {
+        "quote": "Człowiek upada i się podnosi. Jedni nazywają to gimnastyką, inni sensem życia.",
+        "name": "Sławomir Kuligowski"
+    },
+    {
+        "quote": "Życie zaczyna się tam, gdzie kończy się lęk.",
+        "name": "Osho"
+    },
+    {
+        "quote": "Życie daje każdemu tyle, ile sam ma odwagę sobie z niego wziąć.",
+        "name": "Jacek Pałkiewicz"
+    },
+    {
+        "quote": "Życiowe wyzwania nie powinny Cię paraliżować. Powinny pomóc Ci odkryć, kim naprawdę jesteś.",
+        "name": "Bernice Johnson Reagon"
+    },
+    {
+        "quote": "Trzeba mieć, co się chce! I trzeba żyć, jak się chce!",
+        "name": "Jerzy Pilch"
+    },
+    {
+        "quote": "Nigdy nie zapomnij najpiękniejszych dni swojego życia! Wracaj do nich, ilekroć w twoim życiu wszystko zaczyna się walić.",
+        "name": "Jim Rohn"
+    },
+    {
+        "quote": "Najtrudniejsza rzecz w życiu to nauczyć się, które mosty przekraczać, a które palić.",
+        "name": "David Russell"
+    },
+    {
+        "quote": "Życie jest komedią dla tych, którzy patrzą, a tragedią dla tych, którzy czują.",
+        "name": "Jonathan Swift"
+    },
+    {
+        "quote": "Życie zaczyna się po opuszczeniu wygodnego kokonu.",
+        "name": "Neale Donald Walsh"
+    },
+    {
+        "quote": "Żyje się tylko raz, ale jeśli żyjesz dobrze, ten raz wystarczy.",
+        "name": "Mae West"
+    },
+    {
+        "quote": "Śmiech jest to dobre samopoczucie całego ciała, okazywane w jednym miejscu",
+        "name": "Josh Billings"
+    },
+    {
+        "quote": "Piękno jest tym, czego się pragnie bez chęci zjedzenia. Pragniemy jedynie żeby było.",
+        "name": "Simone Weil"
+    },
+    {
+        "quote": "Tylko niekochani nienawidzą.",
+        "name": "Charlie Chaplin"
+    },
+    {
+        "quote": "Zrozumieć - oznacza pojąć znaczenie słowa, które zna się od dawna.",
+        "name": "Lidia Jasińska"
+    },
+    {
+        "quote": "To, czego dokonuje się z miłości, dzieje się zawsze poza dobrem i złem.",
+        "name": "Nietzsche"
+    },
+    {
+        "quote": "Szczęście czeka na nas w pewnym miejscu, pod warunkiem jednak, że nie będziemy go szukać.",
+        "name": "Wolter"
+    },
+    {
+        "quote": "Miłość: jedyna funkcja fizjologiczna, która zrobiła karierę.",
+        "name": "Julian Tuwim"
+    },
+    {
+        "quote": "Uprzejmość to jedyna dopuszczalna forma hipokryzji.",
+        "name": "Ambrose Gwinnett Bierce"
+    },
+    {
+        "quote": "Znane są tysiące sposobów zabijania czasu, ale nikt nie zna sposobu, aby go wskrzesić.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Siła człowieka nie polega na tym, że nigdy nie upada ale na tym, że potrafi się podnosić.",
+        "name": "Konfucjusz"
+    },
+    {
+        "quote": "Ucz swoje dzieci milczeć. Mówić nauczą się same.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Spójrz w oczy dziecka - zobaczysz Boga.",
+        "name": "Phil Bosmans"
+    },
+    {
+        "quote": "Żyć dopiero zaczniesz, gdy umrzesz kochając.",
+        "name": "ks. Jan Twardowski"
+    },
+    {
+        "quote": "Miłość, przyznajmy, to wielka mistrzyni - potrafi zrobić z nas kogoś, kim nigdy nie byliśmy.",
+        "name": "Molier"
+    },
+    {
+        "quote": "Spory polityczne wtedy trwają najdłużej, gdy obie strony nie mają racji.",
+        "name": "Gonzales Suarez"
+    },
+    {
+        "quote": "Całe życie zbieramy rzeczy niepotrzebne. Dlatego tak mało w nim miejsca na miłość.",
+        "name": "Mirosław Welz"
+    },
+    {
+        "quote": "Dowcip jest bronią, ale nie należy karać za nielegalne posiadanie dowcipu.",
+        "name": "Antoni Słonimski"
+    },
+    {
+        "quote": "Szczęściem jest już chęć otworzenia oczu o poranku.",
+        "name": "Wilhelm Ockham"
+    },
+    {
+        "quote": "Nie myśl o szczęściu. Nie przyjdzie - nie zrobi zawodu, przyjdzie - zrobi niespodziankę.",
+        "name": "Bolesław Prus"
+    },
+    {
+        "quote": "Najtrudniej dotrzeć do siebie samego.",
+        "name": "Marek Aureliusz"
+    },
+    {
+        "quote": "Niewiedza to wielki ciężar, lecz ten, kto go dźwiga - nie czuje go.",
+        "name": "Valeriu Butulescu"
+    },
+    {
+        "quote": "Człowiek genialny nie popełnia żadnych omyłek. Jego błędy są dobrowolne i stają się wrotami odkryć.",
+        "name": "James Joyce"
+    },
+    {
+        "quote": "Tylko w ciemności możesz zobaczyć gwiazdy.",
+        "name": "Martin Luter King"
+    },
+    {
+        "quote": "Kiedy czyjeś szczęście, staje się twoim szczęściem, to jest to miłość.",
+        "name": "Lana del Ray"
+    },
+    {
+        "quote": "Kto nie próbuje, ten nie wie jak smakuje sukces.",
+        "name": "Grzegorz Wójtowicz"
+    },
+    {
+        "quote": "Ludzie wierzą, że aby zdobyć sukces trzeba wcześnie wstawać. Otóż nie – trzeba wstawać w dobrym humorze.",
+        "name": "Marcel Achard"
+    },
+    {
+        "quote": "Kreatywność jest zaraźliwa. Zarażaj nią.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Najlepszy sposób na osiągnięcie sukcesu to postępować według rad, które dajemy innym.",
+        "name": "Harold Taylor"
+    },
+    {
+        "quote": "Sukces odniesiesz tylko wtedy, gdy sam poszukasz okoliczności, jakie ci odpowiadają; Jeśli nie zdołasz ich znaleźć, stwórz je sobie.",
+        "name": "George Bernard Shaw"
+    },
+    {
+        "quote": "Nie zbudujesz swej reputacji tylko na zamierzeniach.",
+        "name": "Henry Ford"
+    },
+    {
+        "quote": "Czyń co w Twojej mocy, a Bóg wspomoże Twoją dobrą wolę.",
+        "name": "Tomasz a Kempis"
+    },
+    {
+        "quote": "Zadbaj o swoje ciało. To jedyne miejsce, jakie masz do życia.",
+        "name": "Jim Rohn"
+    },
+    {
+        "quote": "Kto pracuje przez cały dzień ten nie ma czasu na zarabianie pieniędzy.",
+        "name": "John D. Rockefeller"
+    },
+    {
+        "quote": "Daj każdemu dniu szansę stania się najpiękniejszym w całym twoim życiu.",
+        "name": "Mark Twain"
+    },
+    {
+        "quote": "Jeśli dążycie do perfekcji, odnosicie większe sukcesy. Gdy jej oczekujecie, wystawiacie się na porażkę",
+        "name": "Dale Furtwengler"
+    },
+    {
+        "quote": "Najlepszą metodą przewidywania przyszłości jest jej tworzenie.",
+        "name": "Peter Drucker"
+    },
+    {
+        "quote": "Twoje życie staje się lepsze, kiedy Ty stajesz się lepszy.",
+        "name": "Brian Tracy"
+    },
+    {
+        "quote": "Ceną doskonałości jest dyscyplina. Kosztem miernoty – rozczarowanie.",
+        "name": "William Arthur Ward"
+    },
+    {
+        "quote": "Nie widzimy rzeczy takimi, jakimi są. Widzimy je takimi, jakimi jesteśmy.",
+        "name": "Talmud"
+    },
+    {
+        "quote": "Wykorzystaj czas na doskonalenie się poprzez czytanie dzieł innych ludzi, aby łatwo osiągnąć to, na co oni ciężko pracowali.",
+        "name": "Sokrates"
+    },
+    {
+        "quote": "Większość nieszczęść jest rezultatem niewłaściwego wykorzystania czasu.",
+        "name": "Napoleon Hill"
+    },
+    {
+        "quote": "Liczy się nie to, kim ktoś się urodził, ale kim wybrał, by być.",
+        "name": "JK Rowling"
+    },
+    {
+        "quote": "Zawsze sie znajdzie odpowiednia filozofia do braku odwagi.",
+        "name": "Albert Camus"
+    },
+    {
+        "quote": "Jestem optymistą. Bycie kimkolwiek innym, nie zdaje się być do czegokolwiek przydatne.",
+        "name": "Winston Churchill"
+    },
+    {
+        "quote": "Wszystko powinno się konstruować w sposób możliwie najprostszy, ale nie uproszczony.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Sprytna osoba rozwiązuje problem. Mądra ich unika.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Myśl ma wartość dla tego, kto wprowadza ją w świat.",
+        "name": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "Entuzjazm jest matką wysiłku i bez niego nic wielkiego nigdy nie osiągnięto.",
+        "name": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "Silny jest ten, kto potrafi przezwyciężyć swe szkodliwe przyzwyczajenia.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Kieruj swoim interesem, bo inaczej on Tobą pokieruje.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Inwestowanie w wiedzę zawsze przynosi największe zyski.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Nie można osiągnąć więcej niż to, czego oczekujesz.",
+        "name": "Brian Tracy"
+    },
+    {
+        "quote": "Szkoła doświadczenia kosztuje, ale żadna inna nie potrafi lepiej wykształcić człowieka.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Żeby się poznać, trzeba się przyjrzeć sobie w działaniu z innymi.",
+        "name": "Bruce Lee"
+    },
+    {
+        "quote": "W dziewięciu przypadkach na dziesięć spór kończy się tym, że każda ze stron przekonana jest bardziej niż kiedykolwiek o swojej racji.",
+        "name": "Dale Carnegie"
+    },
+    {
+        "quote": "Jedyny sposób, aby zwyciężyć w kłótni, to unikać jej.",
+        "name": "Dale Carnegie"
+    },
+    {
+        "quote": "Największym ograniczeniem w drodze do bogactwa jest sposób myślenia.",
+        "name": "John D. Rockefeller"
+    },
+    {
+        "quote": "Naprawdę rozwijasz się tylko wtedy, gdy nie masz poczucia komfortu.",
+        "name": "Harv Eker"
+    },
+    {
+        "quote": "Bogaci dbają o to, żeby pieniądze ciężko na nich pracowały, biedni ciężko pracują na pieniądze.",
+        "name": "Harv Eker"
+    },
+    {
+        "quote": "Kto wie, że popełnił błąd i nie próbuje go naprawić, popełnia drugi błąd.",
+        "name": "Konfucjusz"
+    },
+    {
+        "quote": "Brakiem odwagi jest wiedzieć, co prawe, lecz tego nie czynić.",
+        "name": "Konfucjusz"
+    },
+    {
+        "quote": "Szlachetny człowiek wymaga od siebie, prostak od innych.",
+        "name": "Konfucjusz"
+    },
+    {
+        "quote": "Samoobserwacja daje mądrość. Zawsze przypatruj się swoim akcjom jako możliwości doskonalenia się.",
+        "name": "Masutatsu Oyama"
+    },
+    {
+        "quote": "Codziennie trzeba starać się wykraczać poza swoje możliwości.",
+        "name": "Masutatsu Oyama"
+    },
+    {
+        "quote": "Wykształcenie jest czymś, co trzeba zdobyć, nie zawracając sobie głowy nauką szkolną.",
+        "name": "Mark Twain"
+    },
+    {
+        "quote": "Prawdziwymi zwycięzcami są ci, którzy zwyciężają w walkach życia codziennego.",
+        "name": "Masutatsu Oyama"
+    },
+    {
+        "quote": "Nawet jeżeli nauczę tylko jedną osobę nadziei, nie żyłem nadaremnie.",
+        "name": "Martin Luther King"
+    },
+    {
+        "quote": "Gdy człowiek stawia sobie granicę tego co zrobi, stawia sobie też granice tego co może zrobić.",
+        "name": "Schwab Charles"
+    },
+    {
+        "quote": "Zrób to zanim będziesz gotów, gdyż nigdy nie będziesz gotów jeśli będziesz czekać.",
+        "name": "Les Brown"
+    },
+    {
+        "quote": "Bogactwo może być źródłem przyjemności, ale nie jest godne pożądania samo dla siebie",
+        "name": "Arystyp z Cyreny"
+    },
+    {
+        "quote": "Najmniejszy pagórek potrafi zasłonić nam widok na najwyższy szczyt.",
+        "name": "Maria von Ebner-Eschenbach"
+    },
+    {
+        "quote": "To cud, że ciekawość jest w stanie przetrwać formalną edukację.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Człowiek sukcesu to ktoś, kto potrafi zbudować solidne fundamenty z cegieł, którymi inni w niego rzucają.",
+        "name": "David Brinkley"
+    },
+    {
+        "quote": "Zadowolenie czyni biednego bogatym, niezadowolenie czyni bogatego biednym.",
+        "name": "Benjamin Franklin"
+    },
+    {
+        "quote": "Trzeba się nauczyć ponosić porażki. Nie można stworzyć nic nowego, jeżeli nie potrafi się akceptować pomyłek.",
+        "name": "Charles Knight"
+    },
+    {
+        "quote": "Nowej filozofii, nowego sposobu życia nie dostaje się za darmo. Trzeba za nie zapłacić wyższą cenę, a osiąga się je wyłącznie wielką cierpliwością i wielkim wysiłkiem.",
+        "name": "Fiodor Dostojewski"
+    },
+    {
+        "quote": "Znajdziesz to, czego się spodziewasz.",
+        "name": "Arystoteles"
+    },
+    {
+        "quote": "Za nieśmiertelnością tęsknią miliony, które nie wiedzą co zrobić ze sobą w deszczowe niedzielne popołudnie.",
+        "name": "Susan Ertz"
+    },
+    {
+        "quote": "Porażka inspiruje zwycięzców. To jest ich największy sekret.",
+        "name": "Robert Kiyosaki"
+    },
+    {
+        "quote": "Słowa wychodzące z serca trafiają do serca.",
+        "name": "Przysłowia"
+    },
+    {
+        "quote": "Wiemy, kim jesteśmy, lecz nie wiemy, kim będziemy.",
+        "name": "Wiliam Szekspir"
+    },
+    {
+        "quote": "Świat jest teatrem, aktorami ludzie, którzy kolejno wchodzą i znikają.",
+        "name": "Wiliam Szekspir"
+    },
+    {
+        "quote": "Ktoś, kto chce ładnie utrzymać swój ogród, nie przeznacza ani kawałka ziemi na chwasty.",
+        "name": "Dag Hammarskjold"
+    },
+    {
+        "quote": "Myślenie to najcięższa praca z możliwych i pewnie dlatego tak niewielu ją podejmuje.",
+        "name": "Henry Ford"
+    },
+    {
+        "quote": "Dobre zarządzanie biznesem to zarządzanie jego przyszłością, a zarządzanie przyszłością to zarządzanie informacją.",
+        "name": "Marion Harper"
+    },
+    {
+        "quote": "Jaką ogromną mocą jest posiadanie wyraźnego celu.",
+        "name": "Elizabeth Stuart Phelps"
+    },
+    {
+        "quote": "W fabryce produkujemy kosmetyki, w sklepie sprzedajemy nadzieję.",
+        "name": "Charles Revson"
+    },
+    {
+        "quote": "Ludzie z celami odnoszą sukcesy ponieważ wiedzą dokąd zmierzają…To jest aż tak proste.",
+        "name": "Earl Nightingale"
+    },
+    {
+        "quote": "Łatwiej powiedzieć NIE na początku, niż na końcu.",
+        "name": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Więcej ludzi marnuje czas i energię roztrząsając problemy niż rzeczywiście próbując je rozwiązać.",
+        "name": "Henry Ford"
+    },
+    {
+        "quote": "Nasze życie zawsze pokazuje rezultat naszych dominujących myśli.",
+        "name": "Sren Kierkegaard"
+    },
+    {
+        "quote": "Jeśli Twoim jedynym celem jest stanie się bogatym – nigdy go nie osiągniesz.",
+        "name": "John D. Rockefeller"
+    },
+    {
+        "quote": "Przyszłość nie jest już taka, jak kiedyś.",
+        "name": "Yogi Berra"
+    },
+    {
+        "quote": "Z radością witaj poważne, trudne i skomplikowane problemy. To w nich kryją się największe możliwości.",
+        "name": "Ralph Marston"
+    },
+    {
+        "quote": "Nagrodą za rzecz dobrze zrobioną jest to, że jest zrobiona.",
+        "name": "Thomas Edison"
+    },
+    {
+        "quote": "Ten kto się waha, czeka…czeka…czeka… i traci.",
+        "name": "Richard Bandler"
+    },
+    {
+        "quote": "Wszyscy musimy mieć jakieś marzenia i nadzieję, że możemy osiągnąć coś więcej niż mamy.",
+        "name": "Cecelia Ahern"
+    },
+    {
+        "quote": "Życie, którego głównym celem jest spełnienie osobistych pragnień, prędzej czy później przynosi gorzkie rozczarowania.",
+        "name": "Albert Einstein"
+    },
+    {
+        "quote": "Jeśli życie daje ci cytrynę, zrób z niej lemoniadę.",
+        "name": "Joan Collins"
+    },
+    {
+        "quote": "Celem naszego życia nie powinno być posiadanie bogactw, lecz bogactwo bycia.",
+        "name": "Erich Fromm"
+    },
+    {
+        "quote": "Ostatecznie życie sprowadza się do wzięcia na siebie odpowiedzialności za znalezienie właściwego rozwiązania problemów i zadań, jakie stale stawia ono przed każdym z nas.",
+        "name": "Viktor Frankl"
+    },
+    {
+        "quote": "Ten, kto wie, dlaczego żyje, nie troszczy się o to, jak żyje.",
+        "name": "Fryderyk Nietzsche"
+    },
+    {
+        "quote": "Życie jest za krótkie na długoterminowe urazy.",
+        "name": "Elon Musk"
+    },
+    {
+        "quote": "W życiu nie ma prób, od razu zaczyna się przedstawienie.",
+        "name": "Marianne Faithfull"
+    },
+    {
+        "quote": "Opcja: zaprzyjaźnij się z samym sobą jest idealna, a właściwie jedyna, żeby nie czuć się megasamotnym w życiu.",
+        "name": "Katarzyna Nosowska"
+    },
+    {
+        "quote": "Starałem się tak żyć, abym w godzinie śmierci mógł się raczej cieszyć, niż lękać.",
+        "name": "Witold Pilecki"
+    },
+    {
+        "quote": "Życie nie jest lepsze ani gorsze od naszych marzeń, jest tylko zupełnie inne.",
+        "name": "William Szekspir"
+    },
+    {
+        "quote": "Mówienie prawdy w naszym codziennym życiu jest albo niekonieczne, albo szkodliwe, więc jej nie mówimy.",
+        "name": "Jonathan Carroll"
+    },
+    {
+        "quote": "Do tego, żeby żyć zwyczajnie, trzeba mieć wiele odwagi.",
+        "name": "Soren Kierkegaard"
+    },
+    {
+        "quote": "Gdyby nie było śmierci, życie nie wydawałoby się nam takie piękne.",
+        "name": "Mikołaj Gogol"
+    },
+    {
+        "quote": "Pieniądzom trzeba rozkazywać, a nie służyć im.",
+        "name": "Seneka Młodszy"
+    },
+    {
+        "quote": "Ludzie ratują wartość pieniądza, ale nie umieją ratować wartości życia.",
+        "name": "Stefan Wyszyński"
+    },
+    {
+        "quote": "Tylko uczciwe życie jest szczęśliwe.",
+        "name": "Platon"
+    },
+    {
+        "quote": "W całym życiu najistotniejsze jest to, czy przyjmujemy rzeczy za oczywiste, czy też z wdzięcznością.",
+        "name": "G. K. Chesterton"
+    },
+    {
+        "quote": "Sen jest to skracanie sobie życia w tym celu, aby je wydłużyć.",
+        "name": "Tadeusz Kotarbiński"
+    },
+    {
+        "quote": "Każdą pracę wykonuj, jakby miała ona być ostatnią w życiu.",
+        "name": "Marek Aureliusz"
+    },
+    {
+        "quote": "Życie nie daje nam tego, co chcemy, tylko to, co ma dla nas.",
+        "name": "Władysław Reymont"
+    },
+    {
+        "quote": "Ruch jest przyczyną wszelkiego życia.",
+        "name": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Kto życia nie ceni, nie wart go.",
+        "name": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Niewiedza oraz posiadanie ustalonych koncepcji ułatwiają życie.",
+        "name": "Stefan Kisielewski"
+    },
+    {
+        "quote": "Teatr to nie życie - nie swoich miejsc zajmować nie wolno.",
+        "name": "Leonard Drzewiecki"
+    },
+    {
+        "quote": "Najbardziej pożyteczne w życiu to własne doświadczenie.",
+        "name": "Walter Scott"
+    },
+    {
+        "quote": "Człowiek mógłby żyć samotnie przez całe życie. Ale chociaż sam mógłby wykopać swój grób, musi mieć kogoś kto go pochowa.",
+        "name": "James Joyce"
+    },
+    {
+        "quote": "Okrutną zagadką jest życie.",
+        "name": "Nikos Kazantzakis"
+    },
+    {
+        "quote": "Nie powinniśmy angażować się w sprawy innego kraju, chyba, że stanowi on zagrożenie dla naszego bezpieczeństwa.",
+        "name": "Jimmy Carter"
+    },
+    {
+        "quote": "Myślę, że najważniejszą rzeczą jakiej się dowiedziałem jest to, że zawsze można się nauczyć czegoś więcej.",
+        "name": "Bill Clinton"
+    },
+    {
+        "quote": "Skoro mamy tylko jedno życie, dlaczego by nie spędzić go z kotem?",
+        "name": "Robert Stearns"
+    },
+    {
+        "quote": "Błąd to zło, które popełnia się bez przyjemności.",
+        "name": "Sidonie-Gabrielle Colette"
+    },
+    {
+        "quote": "Śmierć chroni od miłości, a miłość od śmierci.",
+        "name": "Jan Lechoń"
+    },
+    {
+        "quote": "Miłość jest nieodpartym pragnieniem, by ktoś nas nieodparcie pragnął.",
+        "name": "Allen Ginsberg"
+    },
+    {
+        "quote": "Z przeszłością jest jak z pogodą – wszyscy o niej mówią, ale nikt nie ma na nią wpływu.",
+        "name": "Magda Stachula"
+    },
+    {
+        "quote": "Przyjmowanie cierpienia, które nie jest konieczne, to masochizm, a nie heroizm.",
+        "name": "Viktor Frankl"
+    },
+    {
+        "quote": "Im bardziej zapominamy o sobie – oddając się sprawie, której pragniemy służyć, bądź też osobie, którą pragniemy kochać – tym głębsze jest nasze człowieczeństwo i tym bardziej urzeczywistniamy swój potencjał.",
+        "name": "Viktor Frankl"
+    },
+    {
+        "quote": "W przeciwieństwie do większości dzisiejszej młodzieży ja nadal przejawiam skłonność do buntu.",
+        "name": "Cher"
+    },
+    {
+        "quote": "Jeśli się czegoś boję, to tego, że to wszystko nie może przecież wiecznie trwać.",
+        "name": "Dariusz Michalczewski"
+    },
+    {
+        "quote": "Są mężczyźni, którzy żenią się jedynie dlatego, że się boją sami spać.",
+        "name": "Joachim Glensk"
+    },
+    {
+        "quote": "Dyskutowanie z wariatem jest bezużyteczne, no i czasochłonne.",
+        "name": "Stephen King"
     }
 
 ]
